@@ -1,2 +1,1 @@
-# mysql
-Screenshots of my code from the MySql workbench assignment
+This is a repository of work related to SQL databases
